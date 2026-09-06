@@ -1,0 +1,11 @@
+order_id,date,customer_id,product,amount
+1001,2021-01-15,C001,Laptop Dell Inspiron,4599.90
+1002,2021-02-03,C002,Mouse Logitech MX Master,459.00
+1003,2021-03-22,C003,Teclado Mecanico Keychron,899.50
+1004,2021-04-10,C001,Monitor LG 27 4K,2199.00
+1005,2021-05-18,C004,Webcam Logitech C920,549.90
+1006,2021-06-07,C005,Cadeira Gamer ThunderX3,1899.00
+1007,2021-07-25,C002,Headset HyperX Cloud II,699.00
+1008,2021-08-14,C006,SSD Samsung 970 EVO 1TB,899.00
+1009,2021-09-30,C003,Hub USB Anker 7 em 1,299.90
+1010,2021-10-12,C007,Microfone Blue Yeti,1299.00
